@@ -1,0 +1,321 @@
+/* 1 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd4079"),
+    "name" : "Conor",
+    "project" : "API proxy",
+    "yestDayWork" : "Was working mainly on providing access to remote hardware. Servers not hooked up yet.",
+    "toDaysWork" : "^^, Functional testing + continued work on Vagrantfile->Molecule.",
+    "impediments" : "None",
+    "createdOn" : "2018-07-31T00:00:00.000Z"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd407a"),
+    "name" : "Conor",
+    "project" : "API proxy",
+    "yestDayWork" : "Was working mainly on providing access to remote hardware. Servers not hooked up yet.",
+    "toDaysWork" : "^^, Functional testing + continued work on Vagrantfile->Molecule.",
+    "impediments" : "None",
+    "createdOn" : "2018-07-31T00:00:00.000Z"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd407b"),
+    "name" : "Jen",
+    "project" : "Auto RTB's project",
+    "yestDayWork" : "Reviewed passlib + got it merged; reviewed a bunch of smaller things. Made changes to client skeleton in repo there.",
+    "toDaysWork" : "Finish structure of local DB that will be used by the client, peek at how replies are handled",
+    "impediments" : "None",
+    "createdOn" : "2018-07-31T00:00:00.000Z"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd407c"),
+    "name" : "Kevin",
+    "project" : "Commons RTB's project",
+    "yestDayWork" : "Tested passlib PR. Got functional testing suite running locally.",
+    "toDaysWork" : "Docs PRs, will be talking to Conor about hardware access, support issues w/ Freddy",
+    "impediments" : "None",
+    "createdOn" : "2018-07-31T00:00:00.000Z"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd407d"),
+    "name" : "Kushal",
+    "project" : "API proxy",
+    "yestDayWork" : "As part of adding-user investigation for functional testing, filed #3671 + pushed PR.",
+    "toDaysWork" : "",
+    "impediments" : "None, waiting for Conor's update on pages_layout testing",
+    "createdOn" : "2018-07-31T00:00:00.000Z"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd407e"),
+    "name" : "Mickael",
+    "project" : "API proxy",
+    "yestDayWork" : "Reviewed Conor's Fedora 28 update PR. Will test functionally and approve & merge. Opened WIP PR for metapackage. Have associated PR in Qubes template repo for using metapackage.",
+    "toDaysWork" : "",
+    "impediments" : "None",
+    "createdOn" : "2018-07-31T00:00:00.000Z"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd407f"),
+    "name" : "Conor",
+    "project" : "DPIM",
+    "yestDayWork" : "Touching base with Josh on workstation work. Workstation master is broken - needs investigation.",
+    "toDaysWork" : "Debugging #3758. Otherwise heavy meeting schedule.",
+    "impediments" : "None",
+    "createdOn" : "2018-08-31T00:00:00.000Z"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd4080"),
+    "name" : "Erik",
+    "project" : "Project Node",
+    "yestDayWork" : "Submitted PR for 0.8.0->0.9.0 upgrade docs; mainly non-SD work",
+    "toDaysWork" : "Work with Conor/Mike on CI docs (including for SD); finish up contract for Qt development; poke a bit at style guide; more non-SD work and backlog review",
+    "impediments" : "None",
+    "createdOn" : "2018-08-31T00:00:00.000Z"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd4081"),
+    "name" : "Jen",
+    "project" : "App Support",
+    "yestDayWork" : "Small fixes for release branch. Tested apt persistence to verify docs recommendation. Started QA on physical hardware.",
+    "toDaysWork" : "Will help on #3758",
+    "impediments" : "None",
+    "createdOn" : "2018-08-31T00:00:00.000Z"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd4082"),
+    "name" : "Kushal",
+    "project" : "App Support",
+    "yestDayWork" : "Was trying to generate logs for #3758 -- found a fix based on Flask docs but not 100% sure why it's working",
+    "toDaysWork" : "More into Deb packaging notes.",
+    "impediments" : "None",
+    "createdOn" : "2018-07-04T00:00:00.000Z"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd4083"),
+    "name" : "Mike",
+    "project" : "Secure Drop",
+    "yestDayWork" : "Was digging into securedrop.club infra for the forum",
+    "toDaysWork" : "Docs PRs will be talking to Conor about hardware access, support issues w/ Freddy",
+    "impediments" : "None",
+    "createdOn" : "2018-07-31T00:00:00.000Z"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5bd9e5a026431423b5b42634"),
+    "impediments" : "None",
+    "name" : "Mike",
+    "project" : "Project Node",
+    "yestDayWork" : "Got Google Cloud integration with Jenkins",
+    "toDaysWork" : "Start work on one of the Xenial tickets",
+    "createdOn" : ISODate("2018-10-31T17:25:52.849Z"),
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5bd9e5f126431423b5b42637"),
+    "impediments" : "None",
+    "name" : "Jen",
+    "project" : "DPIM",
+    "yestDayWork" : " Implemented first ticket for UI updater.",
+    "toDaysWork" : "Taking another one",
+    "createdOn" : ISODate("2018-10-31T17:27:13.683Z"),
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5bd9e71926431423b5b4263d"),
+    "impediments" : "None",
+    "name" : "Erik",
+    "project" : "Secure Drop",
+    "yestDayWork" : "Support/training follow-ups, Sd.org content work",
+    "toDaysWork" : "More support, more Sd.org content work",
+    "createdOn" : ISODate("2018-10-31T17:32:09.076Z"),
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5bd9e73a26431423b5b4263e"),
+    "impediments" : "None",
+    "name" : "Jen",
+    "project" : "App Support",
+    "yestDayWork" : " Continued chipping away at tests for the GUI",
+    "toDaysWork" : "Take a pass at Signal CLI testing",
+    "createdOn" : ISODate("2018-10-31T17:32:42.379Z"),
+    "__v" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5bd9e77826431423b5b42640"),
+    "impediments" : "None",
+    "name" : "Mike",
+    "project" : "App Support",
+    "yestDayWork" : " Finished up securedrop.org logging work.",
+    "toDaysWork" : " Going back to the board.",
+    "createdOn" : ISODate("2018-10-31T17:33:44.136Z"),
+    "__v" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5bd9e79226431423b5b42641"),
+    "impediments" : "None",
+    "name" : "Mickael",
+    "project" : "App Support",
+    "yestDayWork" : "Two PRs. Can trade reviews with Conor",
+    "toDaysWork" : "Bug in Signal CLI. Infr awork",
+    "createdOn" : ISODate("2018-10-31T17:34:10.124Z"),
+    "__v" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd4084"),
+    "name" : "Conor",
+    "project" : "App Support",
+    "yestDayWork" : "Started on pre-release install testing. Gigabyte boxes -- put report in release ticket.",
+    "toDaysWork" : "Using different servers that we know are bad -- as expected 0.7.0 not installable. Did not yet roll back. Infra/web",
+    "impediments" : "None",
+    "createdOn" : "2018-06-21T00:00:00.000Z"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd4085"),
+    "name" : "Erik",
+    "project" : "Secure Drop",
+    "yestDayWork" : "Added docs for 0.7->0.8 update, including re-enabling kernel.",
+    "toDaysWork" : "Mostly non-SD work, may poke at CoC draft",
+    "impediments" : "None",
+    "createdOn" : "2018-06-21T00:00:00.000Z"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5bd9e410bb39406923cd4086"),
+    "name" : "Mike",
+    "project" : "Project Node",
+    "yestDayWork" : "Still working on STN-on-Docker stuff.",
+    "toDaysWork" : "Will pivot to helping review on SD this afternon",
+    "impediments" : "None",
+    "createdOn" : "2018-06-21T00:00:00.000Z"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5bd9e55826431423b5b42631"),
+    "impediments" : "None",
+    "name" : "Erik",
+    "project" : "Project Node",
+    "yestDayWork" : "After sprint planning, mostly hiring",
+    "toDaysWork" : "Support, 0.8.0 + roadmap follow-up, discussion re: scanner integration w/ Mickael",
+    "createdOn" : ISODate("2018-10-31T17:24:40.218Z"),
+    "__v" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5bd9e58226431423b5b42633"),
+    "impediments" : "NOne",
+    "name" : "Jen",
+    "project" : "Project Node",
+    "yestDayWork" : " Looked at integration tests for sd-admin sdconfig, made some changes + merged in",
+    "toDaysWork" : "Look at other integration tests for update and check-for-udpates",
+    "createdOn" : ISODate("2018-10-31T17:25:22.329Z"),
+    "__v" : 0
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5bd9e5b926431423b5b42635"),
+    "impediments" : "None",
+    "name" : "Mickael",
+    "project" : "Project Node",
+    "yestDayWork" : " Pushed 135 kernels to apt-test, new Tor stable release. Made some progress on apache issue, added comments in #3490. Could use some input form Conor.",
+    "toDaysWork" : "Continued on ^^",
+    "createdOn" : ISODate("2018-10-31T17:26:17.632Z"),
+    "__v" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5bd9e61526431423b5b42639"),
+    "impediments" : "None",
+    "name" : "Kushal",
+    "project" : "API proxy",
+    "yestDayWork" : "Updated workstation laptop with master branch. Having trouble to connect to the journalist interface from the workstation. Spent the time between debugging and practicing the talk.",
+    "toDaysWork" : "N...",
+    "createdOn" : ISODate("2018-10-31T17:27:49.340Z"),
+    "__v" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5bd9e6a526431423b5b4263a"),
+    "impediments" : "None",
+    "name" : "Mike",
+    "project" : "Commons RTB's project",
+    "yestDayWork" : "Have been going back and forth on SSH over local ticket. Keep finding huge bugs with Mickael's help. Ran into problem we didn't see in testing: split networking diagram we usually recommend in our docs (app be on separate network than mon server) is not present in local prod testing. That broke some stuff in my iptables rules. Making some fixes.",
+    "toDaysWork" : "Found a workaround. Will test this PM. Working on upgrade ticket for new apt repos.",
+    "createdOn" : ISODate("2018-10-31T17:30:13.213Z"),
+    "__v" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5bd9e6c026431423b5b4263b"),
+    "impediments" : "None",
+    "name" : "Mickael",
+    "project" : "Commons RTB's project",
+    "yestDayWork" : "Was testing Mike's PR",
+    "toDaysWork" : "Looking at SecureDrop.org security aspects. Writing up a CSP, test plan + specifics.",
+    "createdOn" : ISODate("2018-10-31T17:30:40.342Z"),
+    "__v" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5bd9e6fe26431423b5b4263c"),
+    "impediments" : "None",
+    "name" : "Conor",
+    "project" : "Auto RTB's project",
+    "yestDayWork" : "Chipping away at kernel source docs.",
+    "toDaysWork" : "Will continue to pick Loic on that. 0.6 cleanup. Web/infra tasks.",
+    "createdOn" : ISODate("2018-10-31T17:31:42.479Z"),
+    "__v" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5bd9e75926431423b5b4263f"),
+    "impediments" : "None",
+    "name" : "Kushal",
+    "project" : "Project Node",
+    "yestDayWork" : "Was working on #3036",
+    "toDaysWork" : "Pushed #3036 to review once again. Writing some PoC code about checking SD instances. Will push it to a github repo by tomorrow.",
+    "createdOn" : ISODate("2018-10-31T17:33:13.838Z"),
+    "__v" : 0
+}

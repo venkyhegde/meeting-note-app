@@ -1,0 +1,28 @@
+.card {
+    font-size: 1rem!important;
+    padding-bottom: 0px !important;
+}
+.card-body{
+    padding-bottom: 2px !important;
+    padding-top: 10px !important;
+}
+.btn-padding{
+    float: right !important;
+}
+button{
+    background-color: white !important;
+}
+button:hover{
+    background-color: white !important;
+}
+.material-icons:hover{
+    font-weight: bolder !important;
+}
+.card-footer{
+    padding-bottom: 1px !important;
+    padding-top: 1px !important;
+    border-top: 0px solid #000 !important;
+}
+.card-header{
+    font-size: 14px !important;
+}

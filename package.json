@@ -1,0 +1,25 @@
+{
+  "name": "virtual-meeting-app",
+  "version": "0.0.0",
+  "main": "./bin/www",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "bootstrap-material-design": "^4.1.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "^2.6.1",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.3.7",
+    "mongoose-validator": "^2.1.0",
+    "morgan": "~1.9.0",
+    "popper.js": "^1.14.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
